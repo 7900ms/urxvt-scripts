@@ -1,8 +1,8 @@
 urxvt-scripts
 =============
 
-clipboard, replaced by 自带的 selection-to-clipboard
-url-select, replaced by 自带的 matcher
+##### clipboard, replaced by 自带的 selection-to-clipboard
+##### url-select, replaced by 自带的 matcher
 
 A small collection of perl extensions for the [rxvt-unicode][urxvt] terminal
 emulator.
